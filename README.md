@@ -28,3 +28,7 @@ In this project, I also worked with Values.js library to generate tints & shades
 #### Values JS
 
 [Values.js](https://github.com/noeldelgado/values.js)
+
+#### Flaticon
+
+[Flaticon](https://www.flaticon.com/free-icons/color-wheel)
